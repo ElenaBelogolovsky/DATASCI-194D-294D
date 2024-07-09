@@ -10,7 +10,7 @@ In today's digital age, misinformation poses significant challenges to society, 
   
 - **Psychological Foundations:** Through the lens of cognitive psychology and behavioral economics, students will examine the psychological mechanisms that make individuals susceptible to misinformation and the cognitive biases that perpetuate its spread.
   
-- **Data Collection and Analysis:** Students will learn techniques for collecting and analyzing data related to misinformation and disinformation, including text analysis, social network analysis, and image and video analysis.
+- **Data Collection and Analysis:** Students will learn techniques for collecting and analyzing data related to misinformation and disinformation, including ....
   
 - **Machine Learning and AI:** Students will explore how machine learning algorithms can be applied to detect patterns of misinformation and disinformation, evaluate their effectiveness, and discuss ethical considerations.
   
