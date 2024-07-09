@@ -1,5 +1,5 @@
 # Data Science of Disinformation (Stats 182)
-## Stanford University, Fall 2025
+## Stanford University, Fall 2024
 
 ## Course Description: Data Science of Disinformation 
 
