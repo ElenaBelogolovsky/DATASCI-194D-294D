@@ -1,7 +1,7 @@
 # Stats 182
 ## Stanford University, Fall 2025
 
-## Course Description: Data Science of Disinformation
+## Course Description: Data Science of Disinformation 
 
 In today's digital age, misinformation poses significant challenges to society, affecting everything from public health and politics to everyday decision-making. This course delves into the interdisciplinary field of data science applied to misinformation, equipping students with the tools and knowledge to understand, analyze, and combat misinformation using quantitative and qualitative methods.
 
