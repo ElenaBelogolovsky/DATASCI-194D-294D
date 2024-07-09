@@ -1,9 +1,11 @@
+# Stats 182
+## Stanford University, Fall 2025
 
-# Course Description: Data Science of Disinformation
+## Course Description: Data Science of Disinformation
 
 In today's digital age, misinformation poses significant challenges to society, affecting everything from public health and politics to everyday decision-making. This course delves into the interdisciplinary field of data science applied to misinformation, equipping students with the tools and knowledge to understand, analyze, and combat misinformation using quantitative and qualitative methods.
 
-## Course Objectives:
+### Course Objectives:
 - **Understanding Misinformation:** Students will explore the definitions, typologies, and historical contexts of misinformation, disinformation, and malinformation, gaining insights into their societal impacts.
   
 - **Psychological Foundations:** Through the lens of cognitive psychology and behavioral economics, students will examine the psychological mechanisms that make individuals susceptible to misinformation and the cognitive biases that perpetuate its spread.
@@ -18,5 +20,5 @@ In today's digital age, misinformation poses significant challenges to society, 
   
 - **Ethical Implications:** Students will discuss the ethical challenges of researching and combating misinformation, considering issues such as privacy, bias, and the responsibilities of data scientists and policymakers.
 
-## Outcome:
+### Outcome:
 By the end of the course, students will gain a comprehensive understanding of the complexities of misinformation and disinformation in the digital age and be equipped with practical skills in data collection, analysis, and visualization to contribute meaningfully to efforts in combating misinformation and disinformation in various domains.
