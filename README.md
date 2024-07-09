@@ -1,1 +1,2 @@
-# stats182
+STATS 182
+Stanford University, Fall 2025
