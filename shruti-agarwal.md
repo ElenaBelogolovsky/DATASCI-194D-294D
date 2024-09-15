@@ -7,4 +7,4 @@ Previously, she was a postdoc at CSAIL with Prof. William Freeman. Simultaneousl
 
 [More about Dr. Shruti Agarwal](https://research.adobe.com/person/shruti-agarwal/)
 
-[Back to Main Page](../README.md)
+[Back to Main Page](README.md)
