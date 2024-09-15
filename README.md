@@ -1,24 +1,38 @@
-# Data Science of Disinformation (Stats 182)
+# Data Science of Disinformation (DATASCI-194D/294D)
 ## Stanford University, Fall 2024
 
 ## Course Description: Data Science of Disinformation 
 
-In today's digital age, misinformation poses significant challenges to society, affecting everything from public health and politics to everyday decision-making. This course delves into the interdisciplinary field of data science applied to misinformation, equipping students with the tools and knowledge to understand, analyze, and combat misinformation using quantitative and qualitative methods.
+- **Disinformation. Fake News. Digital Hate. Viral spread. These topics were rarely discussed 20, 15, or even 10 years ago, and yet today they are top of mind in politics, international affairs, and public health. This course, featuring several guest speakers, explores the advent of the "disinformation era" spawned by the rise of modern information technology and the new ways it can insert itself into our activities, thoughts, and discussions. We plan to discuss everything from data science algorithms to human perceptual tendencies to political movements involved in the active creation and spread of disinformation.
 
-### Course Objectives:
-- **Understanding Misinformation:** Students will explore the definitions, typologies, and historical contexts of misinformation, disinformation, and malinformation, gaining insights into their societal impacts.
-  
-- **Psychological Foundations:** Through the lens of cognitive psychology and behavioral economics, students will examine the psychological mechanisms that make individuals susceptible to misinformation and the cognitive biases that perpetuate its spread.
-  
-- **Data Collection and Analysis:** Students will learn techniques for collecting and analyzing data related to misinformation and disinformation, including ....
-  
-- **Machine Learning and AI:** Students will explore how machine learning algorithms can be applied to detect patterns of misinformation and disinformation, evaluate their effectiveness, and discuss ethical considerations.
-  
-- **Visualizing Misinformation:** The course covers effective data visualization techniques to communicate insights gained from analyzing misinformation and disinformation data.
-  
-- **Case Studies and Real-World Applications:** Through case studies, students will analyze prominent misinformation and disinformation incidents, examining the strategies used to spread misinformation and disinformation and the impact on society.
-  
-- **Ethical Implications:** Students will discuss the ethical challenges of researching and combating misinformation, considering issues such as privacy, bias, and the responsibilities of data scientists and policymakers.
+- **We have two effort levels: 1 unit/3 units and two curricular tracks: (a) a data scientist track, focusing on algorithms and data structures arising in the generation and mitigation of disinformation epidemics; and (b) a generalist track, focusing on the rapid changes in society, politics, economics, and mental health driven by the recent information technology.
 
-### Outcome:
-By the end of the course, students will gain a comprehensive understanding of the complexities of misinformation and disinformation in the digital age and be equipped with practical skills in data collection, analysis, and visualization to contribute meaningfully to efforts in combating misinformation and disinformation in various domains.
+- **We plan to have each week one lecture, two zoom office hours, supplemented by required readings and video/youtubes. Most weeks there will be one homework assignment. Depending on the effort level chosen, there could be a final project.
+
+###09/23/2024 - 12/06/2024 Lectures Mon 9:30 AM - 10:20 AM at 300-300 
+
+###Instructors: David Donoho, donoho@stanford.edu
+
+             Elena Belogolovsky, ebelog@stanford.edu
+                     
+###Tentative Schedule as of 20240812
+
+Week 1: Introduction to Misinformation
+
+Week 2: Platforming and Pipelining
+
+Week 3: Media Ecology and Misinformation
+
+Week 4: Networks, Epidemics, Echo Chambers, Filter bubbles
+
+Week 5: Data Collection and Sources of Misinformation
+
+Week 6: Text Analysis Techniques
+
+Week 7: Machine Learning Approaches to Misinformation Detection
+
+Week 8: Generative AI and Misinformation generation 
+
+Week 9: Visual disinformation and Image Analysis
+
+Week 10: The Economics of Misinformation
