@@ -13,6 +13,7 @@ We plan to have each week one lecture, two zoom office hours, supplemented by re
 
 ## Instructors: 
 David Donoho, donoho@stanford.edu
+
 Elena Belogolovsky, ebelog@stanford.edu
                      
 
