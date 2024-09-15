@@ -8,4 +8,4 @@ Andrey Mir is a media researcher and journalist. He authored "The Viral Inquisit
 - https://a.co/d/fOS2dIb
 - https://a.co/d/7Mff7f0
 
-[Back to Main Page](README.md) 
+[Back to Main Page](README.md)
