@@ -7,4 +7,4 @@ Brandon’s data science work focuses on NLP and data infrastructure. NLP exampl
 
 [More about Dr. Brandon Sepulvado](https://www.norc.org/about/experts/brandon-sepulvado.html)
 
-[Back to Main Page](../README.md)
+[Back to Main Page](README.md)
