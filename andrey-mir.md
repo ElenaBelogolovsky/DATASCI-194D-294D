@@ -4,8 +4,8 @@
 
 Andrey Mir is a media researcher and journalist. He authored "The Viral Inquisitor and Other Essays on Postjournalism and Media Ecology" (2024), "Digital Future in the Rearview Mirror: Jaspers’ Axial Age and Logan’s Alphabet Effect" (2024), "Postjournalism and the Death of Newspapers. The Media after Trump: Manufacturing Anger and Polarization" (2020). "Human as Media. The Emancipation of Authorship" (2014) and other books on media and politics.
 
-- [More about Andrey Mir (1)](https://a.co/d/3YksQer)
-- [More about Andrey Mir (2)](https://a.co/d/fOS2dIb)
-- [More about Andrey Mir (3)](https://a.co/d/7Mff7f0)
+- (https://a.co/d/3YksQer)
+- (https://a.co/d/fOS2dIb)
+- (https://a.co/d/7Mff7f0)
 
 [Back to Main Page](../README.md)
