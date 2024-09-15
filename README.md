@@ -58,7 +58,7 @@ Week 10: The Economics of Misinformation
             <li>
                 <a href="filippo-menczer.html">October 14, 2024 (9:30am-10:20am) - Dr. Filippo Menczer</a>
             </li>
-            <!-- Add additional speakers here -->
+
         </ul>
     </section>
 
