@@ -43,9 +43,24 @@ Week 10: The Economics of Misinformation
 ## Biographies of the Guest Speakers:
 
 
-**September 23, 2024 (9:30am- 10:20am)**
-**Kelly Weill**	is a journalist at the Daily Beast, where she covers extremism, disinformation, and the internet. As a leading media voice on the role of online conspiracy theories in current affairs, she has discussed Flat Earth and other digital fringes on ABC’s Nightline, CNN, Al Jazeera, and other national and international news outlets. 
-https://a.co/d/d5zRQiG
+    <section id="guest-speakers">
+        <h2>Guest Speakers</h2>
+        <ul>
+            <li>
+                <a href="kelly-weill.html">September 23, 2024 (9:30am-10:20am) - Kelly Weill</a>
+            </li>
+            <li>
+                <a href="emilio-ferrara.html">September 30, 2024 (9:30am-10:20am) - Dr. Emilio Ferrara</a>
+            </li>
+            <li>
+                <a href="andrey-mir.html">October 9, 2024 (9:30am-10:20am) - Andrey Mir</a>
+            </li>
+            <li>
+                <a href="filippo-menczer.html">October 14, 2024 (9:30am-10:20am) - Dr. Filippo Menczer</a>
+            </li>
+            <!-- Add additional speakers here -->
+        </ul>
+    </section>
 
 
 **September 30, 2024 (9:30am- 10:20am)**
