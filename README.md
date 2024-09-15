@@ -11,11 +11,12 @@ We plan to have each week one lecture, two zoom office hours, supplemented by re
 
 09/23/2024 - 12/06/2024 Lectures Mon 9:30 AM - 10:20 AM at 300-300 
 
-Instructors: David Donoho, donoho@stanford.edu
-
-             Elena Belogolovsky, ebelog@stanford.edu
+## Instructors: 
+David Donoho, donoho@stanford.edu
+Elena Belogolovsky, ebelog@stanford.edu
                      
-Tentative Schedule as of 20240812
+
+## Tentative Schedule 
 
 Week 1: Introduction to Misinformation
 
