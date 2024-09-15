@@ -7,4 +7,4 @@ Dr. Kai Shu is an Assistant Professor in the Department of Computer Science at E
 
 [More about Dr. Kai Shu](https://www.cs.emory.edu/~kshu5/)
 
-[Back to Main Page](../README.md)
+[Back to Main Page](README.md)
