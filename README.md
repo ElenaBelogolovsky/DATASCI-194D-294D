@@ -1,7 +1,7 @@
 # Data Science of Disinformation (DATASCI-194D/294D)
 ## Stanford University, Fall 2024
 
-## Course Description: Data Science of Disinformation 
+## Course Description: 
 
 ***Disinformation. Fake News. Digital Hate. Viral spread.*** These topics were rarely discussed 20, 15, or even 10 years ago, and yet today they are top of mind in politics, international affairs, and public health. This course, featuring several guest speakers, explores the advent of the "disinformation era" spawned by the rise of modern information technology and the new ways it can insert itself into our activities, thoughts, and discussions. We plan to discuss everything from data science algorithms to human perceptual tendencies to political movements involved in the active creation and spread of disinformation.
 
@@ -20,7 +20,7 @@ Elena Belogolovsky, ebelog@stanford.edu
 
                      
 
-## Tentative Schedule 
+## Tentative Schedule:
 
 Week 1: Introduction to Misinformation
 
