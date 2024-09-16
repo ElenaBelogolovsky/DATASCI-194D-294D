@@ -1,5 +1,4 @@
-# Data Science of Disinformation 
-# DATASCI-194D/294D
+# Data Science of Disinformation (DATASCI-194D/294D)
 
 ## Stanford University, Fall 2024
 
