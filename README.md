@@ -37,7 +37,7 @@ Week 6: Text Analysis Techniques
 
 Week 7: Machine Learning Approaches to Misinformation Detection
 
-Week 8: Generative AI and Misinformation generation 
+Week 8: Generative AI and Misinformation Generation 
 
 Week 9: Visual disinformation and Image Analysis
 
