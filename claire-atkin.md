@@ -3,6 +3,7 @@
 ## Lecture Date: November 20, 2024 (9:30 AM - 10:20 AM)
 
 **Abstract**
+
 The internet isn’t built for surfing. It’s built for selling. The place we go to connect with friends, buy almost everything, and learn about the world is run on ads — a 700+ billions dollar business model. Without checks and balances, this industry — whether intended or not — continues to defund news media, prioritize clickbait, and entrench power to the owners of global technology companies. But it’s worse than just “ads fund bad things.” Because of the way the industry is structured, brands no longer have control over their own ad campaigns. News publishers no longer have editorial control over their own ad placements. Middlemen, instead, have levied a two-sided industry for their own profit. This status quo risks chaos, social unrest, and political violence. The question is: can we fix the internet?
 
 **Bio**
