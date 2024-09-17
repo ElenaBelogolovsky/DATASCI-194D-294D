@@ -11,7 +11,7 @@ We have two *effort levels*: **1 unit/3 units** and *two curricular tracks*: (a)
 We plan to have each week one lecture, two zoom office hours, supplemented by required readings and video/youtubes. Most weeks there will be one homework assignment. Depending on the effort level chosen, there could be a final project.
 
 
-09/23/2024 - 12/06/2024 Lectures Mon 9:30 AM - 10:20 AM at 300-300 
+09/23/2024 - 12/06/2024 Lectures Mon, Wed 9:30 AM - 10:20 AM at 300-300 
 
 
 ## Instructors: 
