@@ -6,6 +6,7 @@ Dr. Filippo Menczer is the Luddy Distinguished Professor of Informatics and Comp
 Research in his group, NaN, spans computational social science, network science, Web science, and data science, with a focus on analyzing and modeling the spread of information and misinformation in social networks and detecting and countering the manipulation of social media. His group also studies social computing, Web search and data mining, and science of science.
 
 [More about Dr. Filippo Menczer](https://cnets.indiana.edu/fil)
+
 [Google Scholar Profile](https://scholar.google.com/citations?user=f_kGJwkAAAAJ&hl=en)
 
 [Back to Main Page](README.md)
