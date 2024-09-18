@@ -13,6 +13,7 @@ This presentation explores how generative AI tools are enabling malicious actors
 Dr. Nir Kshetri is a professor at University of North Carolina-Greensboro and research fellow at Kobe University, Japan. He has authored fourteen books and more than 260 academic articles. Nir’s work has been featured by hundreds of media outlets, such as Al Jazeera, Barron’s, BBC, BS-TBS "Hodo”,  Bloomberg TV, CBS News, Channel News Asia, Economist, Foreign Policy, Forbes, Fortune, Newsweek, Public Radio International, Scientific American, US News and World Report and Wall Street Journal. Nir is a two-time TEDx speaker about the roles of emerging technologies such as artificial intelligence (https://www.youtube.com/watch?v=W6da0kEfBsY) and blockchain (https://www.youtube.com/watch?v=Wdo_Jlov9R4) in fighting poverty. He has provided consulting services to Asian Development Bank, the Commonwealth Secretariat, the World Bank and various UN agencies.
 
 [More about Dr. Nir Kshetri](https://www.uncg.edu/employees/nir-kshetri/)
+
 [Google Scholar Profile](https://scholar.google.com/citations?user=g-jALEoAAAAJ&hl=en)
 
 [Back to Main Page](README.md)
