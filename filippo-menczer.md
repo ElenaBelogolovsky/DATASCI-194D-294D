@@ -5,6 +5,7 @@
 **AI and Social Media Manipulation: The Good, the Bad and the Ugly**
 
 **Abstract**
+
 Disinformation can be very harmful. AI provides us with
 tools to mitigate these harms, such as methods to detect inauthentic
 accounts and coordinated information operations. Large language models
@@ -24,6 +25,7 @@ distribution channels like social media and search engines.
 
 
 **Bio**
+
 Filippo Menczer is a university distinguished professor, the Luddy professor of informatics and computer science, and the Director of the Observatory on Social Media at Indiana University, Bloomington. He has courtesy appointments in cognitive science and physics. He holds a Laurea in Physics from the Sapienza University of Rome and a Ph.D. in Computer Science and Cognitive Science from the University of California, San Diego. Dr. Menczer is a Fellow of the ACM, a Fellow of the Center for Computer-Mediated Communication, a Senior Research Fellow of The Kinsey Institute, and a member of the Center for Complex Networks and Systems Research (CNetS). He previously served as division chair in the IUB School of Informatics and Computing, director of CNetS, visiting scientist at Yahoo Research, Fellow of the Institute for Scientific Interchange Foundation in Torino, Italy, and Fellow-at-large of the Santa Fe Institute. He has been the recipient of Fulbright, Rotary Foundation, and NATO fellowships, a Career Award from the National Science Foundation, and the ICWSM Test of Time Award from AAAI. His research interests span Web and data science, computational social science, science of science, and modeling of complex information networks. In the last fifteen years, his lab has led efforts to study online misinformation spread and to develop tools to detect and counter social media manipulation. This work has been covered in many US and international news sources, including The New York Times, Wall Street Journal, Washington Post, NPR, PBS, CNN, BBC, Economist, Guardian, Atlantic, Reuters, Science, and Nature. Menczer received multiple service awards and currently serves as associate editor of the Network Science journal and on the editorial boards of EPJ Data Science, PeerJ Computer Science, and HKS Misinformation Review.
 
 
