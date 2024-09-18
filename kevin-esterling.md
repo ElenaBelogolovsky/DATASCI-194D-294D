@@ -15,6 +15,7 @@ Dr. Kevin Esterling is Professor of Public Policy and Political Science, chair o
 https://www.youtube.com/watch?v=SIfPL231PgQ
 
 [More about Dr. Kevin Esterling](https://profiles.ucr.edu/app/home/profile/kevine)
+
 [Google Scholar Profile](https://scholar.google.com/citations?user=Nlu4jagAAAAJ&hl=en)
 
 [Back to Main Page](README.md)
