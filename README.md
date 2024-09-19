@@ -42,7 +42,7 @@ Elena Belogolovsky, ebelog@stanford.edu
 
 ## [Readings](readings.md){:target="_blank"}
 
-## [Lecture Sides](lecture-slides.md){:target="_blank"}
+## [Lecture Slides](lecture-slides.md){:target="_blank"}
 
 
 ## [Grading](grading.md){:target="_blank"}
