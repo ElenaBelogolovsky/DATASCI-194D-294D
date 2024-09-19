@@ -58,3 +58,9 @@ Week 10: The Economics of Misinformation
 - [November 20, 2024 - Claire Atkin](claire-atkin.md)  
 - [December 2, 2024 - Dr. Nir Kshetri](nir-kshetri.md)
            
+
+
+## [Tentative Course Schedule](tentative-course-schedule.md){:target="_blank"}
+
+
+## [Readings](readings.md){:target="_blank"}
