@@ -23,24 +23,24 @@ Elena Belogolovsky, ebelog@stanford.edu
 
 ## Guest Speakers:
 
-- [September 23, 2024 - Kelly Weill](kelly-weill.md)  
-- [September 30, 2024 - Dr. Emilio Ferrara](emilio-ferrara.md)  
-- [October 9, 2024 - Andrey Mir](andrey-mir.md)  
-- [October 14, 2024 - Dr. Filippo Menczer](filippo-menczer.md)  
-- [October 23, 2024 - Dr. Kevin Esterling](kevin-esterling.md)  
-- [October 28, 2024 - Imran Ahmed](imran-ahmed.md)  
-- [November 4, 2024 - Dr. Brandon Sepulvado](brandon-sepulvado.md)  
-- [November 11, 2024 - Dr. Kai Shu](kai-shu.md)  
-- [November 18, 2024 - Dr. Shruti Agarwal](shruti-agarwal.md)  
-- [November 20, 2024 - Claire Atkin](claire-atkin.md)  
-- [December 2, 2024 - Dr. Nir Kshetri](nir-kshetri.md)
+- [September 23, 2024 - Kelly Weill](kelly-weill.md){:target="_blank"}  
+- [September 30, 2024 - Dr. Emilio Ferrara](emilio-ferrara.md){:target="_blank"}  
+- [October 9, 2024 - Andrey Mir](andrey-mir.md){:target="_blank"}  
+- [October 14, 2024 - Dr. Filippo Menczer](filippo-menczer.md){:target="_blank"}  
+- [October 23, 2024 - Dr. Kevin Esterling](kevin-esterling.md){:target="_blank"}  
+- [October 28, 2024 - Imran Ahmed](imran-ahmed.md){:target="_blank"}  
+- [November 4, 2024 - Dr. Brandon Sepulvado](brandon-sepulvado.md){:target="_blank"}  
+- [November 11, 2024 - Dr. Kai Shu](kai-shu.md){:target="_blank"}  
+- [November 18, 2024 - Dr. Shruti Agarwal](shruti-agarwal.md){:target="_blank"}  
+- [November 20, 2024 - Claire Atkin](claire-atkin.md){:target="_blank"}  
+- [December 2, 2024 - Dr. Nir Kshetri](nir-kshetri.md){:target="_blank"}
            
 
 
-## [Tentative Course Schedule](tentative-course-schedule.md)
+## [Tentative Course Schedule](tentative-course-schedule.md){:target="_blank"}
 
 
-## [Readings](readings.md)
+## [Readings](readings.md){:target="_blank"}
 
 
 ## [Grading](grading.md){:target="_blank"}
