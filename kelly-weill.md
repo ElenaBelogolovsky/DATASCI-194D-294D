@@ -1,7 +1,6 @@
 # Kelly Weill - Guest Speaker
 
-<iframe src="https://drive.google.com/file/d/1ekULlkMdtZBqL2aiDxlEPp3M2DeJN9Oe/preview" width="640" height="480" allow="autoplay"></iframe>
-
+![image](https://github.com/user-attachments/assets/16366dad-621b-4500-b74d-d2f9d6a6aa3d)
 
 ## Lecture Date: September 23, 2024 (9:30 AM - 10:20 AM)
 
