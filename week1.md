@@ -5,8 +5,11 @@
 1. **Foster, C. L. E. (2023)**. Truth as social practice in a digital era: iteration as persuasion. *AI and Society, 38*(5).
 
 2. **Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., Abramitzky, R., & Jurafsky, D. (2022)**. Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. *Proceedings of the National Academy of Sciences of the United States of America, 119*(31).
+   
+3. **Fisher, M. (2022).** *The chaos machine: The inside story of how social media rewired our minds and our world*. Little Brown & Co., Ch. 7.
 
-3. **Video:** [Social media addiction - how it changes your brain](https://www.youtube.com/watch?v=DcIgk94Fp6Y)
+
+4. **Video:** [Social media addiction - how it changes your brain](https://www.youtube.com/watch?v=DcIgk94Fp6Y)
 
 ---
 
@@ -26,9 +29,8 @@
 
 7. **Maloney, M., Roberts, S., & Jones, C. (2024)**. ‘How do I become blue pilled?’: Masculine ontological insecurity on 4chan’s advice board. *New Media and Society, 26*(6).
 
----
 
-### Videos:
+**Videos:**
 
 1. **Misinformation Age | Cailin O'Connor (UC Irvine) | Sep 25, 2019**  
    [Watch here](https://www.youtube.com/watch?v=qSHEkZP_KRY)  
@@ -37,9 +39,9 @@
 2. **Yuval Noah Harari: This Election Will Tear The Country Apart! AI Will Control You By 2034! | The Diary Of A CEO | Sep 5, 2024**  
    [Watch here](https://www.youtube.com/watch?v=78YN1e8UXdM)
 
----
 
-### Documentaries:
+
+**Documentaries:**
 
 - **The Antisocial Network: Memes to Mayhem (2024)**
 - **After Truth: Disinformation and the Cost of Fake News (2020)**
