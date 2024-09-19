@@ -6,7 +6,7 @@
 
 2. **Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., Abramitzky, R., & Jurafsky, D. (2022)**. Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. *Proceedings of the National Academy of Sciences of the United States of America, 119*(31).
 
-3. **Video:** [Social media addiction - how it changes your brain | Luke Burgis | Big Think | November 28, 2021](https://www.youtube.com/watch?v=DcIgk94Fp6Y)
+3. **Video:** [Social media addiction - how it changes your brain](https://www.youtube.com/watch?v=DcIgk94Fp6Y)
 
 ---
 
