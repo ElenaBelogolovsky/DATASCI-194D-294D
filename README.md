@@ -60,7 +60,7 @@ Week 10: The Economics of Misinformation
            
 
 
-## [Tentative Course Schedule](tentative-course-schedule.md){:target="_blank"}
+## [Tentative Course Schedule](tentative-course-schedule.md)
 
 
-## [Readings](readings.md){:target="_blank"}
+## [Readings](readings.md)
