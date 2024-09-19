@@ -47,3 +47,5 @@
 - **After Truth: Disinformation and the Cost of Fake News (2020)**
 - **The Social Dilemma (2020)**
 
+[Back to Main Page](README.md)
+
