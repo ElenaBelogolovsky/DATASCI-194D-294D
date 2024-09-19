@@ -19,30 +19,7 @@ David Donoho, donoho@stanford.edu
 
 Elena Belogolovsky, ebelog@stanford.edu
 
-                     
-
-## Tentative Schedule:
-
-Week 1: Introduction to Misinformation
-
-Week 2: Platforming and Pipelining
-
-Week 3: Media Ecology and Misinformation
-
-Week 4: Networks, Epidemics, Echo Chambers, Filter bubbles
-
-Week 5: Data Collection and Sources of Misinformation
-
-Week 6: Text Analysis Techniques
-
-Week 7: Machine Learning Approaches to Misinformation Detection
-
-Week 8: Generative AI and Misinformation Generation 
-
-Week 9: Visual disinformation and Image Analysis
-
-Week 10: The Economics of Misinformation
-
+                  
 
 ## Guest Speakers:
 
@@ -60,9 +37,7 @@ Week 10: The Economics of Misinformation
            
 
 
-
 ## [Tentative Course Schedule](tentative-course-schedule.md)
-
 
 
 ## [Readings](readings.md)
