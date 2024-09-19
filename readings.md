@@ -13,3 +13,4 @@
 - [Week 9: Visual Disinformation and Image Analysis](week9.md){:target="_blank"}
 - [Week 10: The Economics of Misinformation](week10.md){:target="_blank"}
 
+[Back to Main Page](README.md)
