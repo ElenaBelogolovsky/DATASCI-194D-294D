@@ -42,3 +42,5 @@
 [^2]: No in-person lecture; please watch the assigned videos/ listen to the assigned podcasts 
 [^3]: Zoom meeting (links are available through your course's Canvas platform)
 
+
+[Back to Main Page](README.md)
