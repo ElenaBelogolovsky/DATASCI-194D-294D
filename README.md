@@ -14,6 +14,9 @@ We plan to have each week one lecture, two zoom office hours, supplemented by re
 09/23/2024 - 12/06/2024 Lectures Mon, Wed 9:30 AM - 10:20 AM at 300-300 
 
 
+### Follow DATASCI-194D/294D on [X](https://x.com/i/communities/1836940184115421389)
+
+
 ## Instructors: 
 David Donoho, donoho@stanford.edu
 
