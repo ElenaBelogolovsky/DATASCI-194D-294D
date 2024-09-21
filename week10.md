@@ -1,5 +1,8 @@
 # Week 10: The Economics of Dis(mis)information
 
+The PDF files for all readings for this week can be accessed [here](https://canvas.stanford.edu/courses/198736/files/folder/Week%2010).
+
+
 ## Required:
 
 1. **Atkin, C. (August 21, 2023).**  
