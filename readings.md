@@ -1,5 +1,14 @@
 # Readings
 
+# Accessing PDFs of Articles and Book Chapters
+
+The PDFs of all the articles and book chapters can be found on Canvas. You can access them under:
+
+- `Files -> Readings`
+- `Files` section for each respective week.
+
+
+
 ## Click on each week to see the required and optional readings:
 
 - [Week 1: Introduction to Misinformation](week1.md){:target="_blank"}
