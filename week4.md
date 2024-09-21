@@ -1,5 +1,7 @@
 # Week 4: Networks, Epidemics, Echo Chambers, Filter Bubbles
 
+The PDF files for all readings for this week can be accessed [here](https://canvas.stanford.edu/courses/198736/files/folder/Week%204).
+
 ## Generalist Track: Required
 
 1. **Woolley, Samuel C., & Howard, Philip N. (2018).**  
