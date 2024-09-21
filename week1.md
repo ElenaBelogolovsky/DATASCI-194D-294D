@@ -1,5 +1,10 @@
 # Week 1: Introduction
 
+## Course Readings
+
+The PDF files for all readings can be accessed [here](https://canvas.stanford.edu/courses/198736/files/folder/Week%201).
+
+
 ### Required:
 
 1. **Foster, C. L. E. (2023)**. Truth as social practice in a digital era: iteration as persuasion. *AI and Society, 38*(5).
