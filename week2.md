@@ -1,5 +1,7 @@
 # Week 2: Platforming and Pipelining
 
+The PDF files for all readings for this week can be accessed [here](https://canvas.stanford.edu/courses/198736/files/folder/Week%202). 
+
 ## Generalist Track: Required
 
 1. **Shearer, E. & Mitchell, A. (January 12, 2021).** News Use Across Social Media Platforms in 2020. *Pew Research Center*.  
