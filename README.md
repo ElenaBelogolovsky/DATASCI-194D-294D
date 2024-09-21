@@ -3,12 +3,6 @@
 ## Stanford University, Fall 2024
 
 
-![DATASCI-194D:294D_F24](https://github.com/user-attachments/assets/5e473307-ba9e-40bc-8fee-92ba9fcbeb99)
-
-
-
-
-
 ## Course Description: 
 
 ***Disinformation. Fake News. Digital Hate. Viral spread.*** These topics were rarely discussed 20, 15, or even 10 years ago, and yet today they are top of mind in politics, international affairs, and public health. This course, featuring several guest speakers, explores the advent of the "disinformation era" spawned by the rise of modern information technology and the new ways it can insert itself into our activities, thoughts, and discussions. We plan to discuss everything from data science algorithms to human perceptual tendencies to political movements involved in the active creation and spread of disinformation.
