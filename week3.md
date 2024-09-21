@@ -1,5 +1,8 @@
 # Week 3: Media Effects and Media Ecology; Psychology and Sociology
 
+The PDF files for all readings for this week can be accessed [here](https://canvas.stanford.edu/courses/198736/files/folder/Week%203).
+
+
 ## Required:
 
 1. **Mir, A. (May 1, 2022).** Disinformation is no danger. Fear polarization.  
