@@ -49,3 +49,5 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 4. **Costello, T. H., Pennycook, G., & Rand, D. G. (2024, April 3).** Durably reducing conspiracy beliefs through dialogues with AI.  
    [Read here](https://osf.io/preprints/psyarxiv/xcwdn)
 
+   [Back to Main Page](README.md) 
+
