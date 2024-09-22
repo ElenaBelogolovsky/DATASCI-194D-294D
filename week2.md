@@ -31,3 +31,4 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 4. **van Dijck, J. (2024).** Governing platforms and societies. *Platforms & Society, 1*.
 
+[Back to Main Page](README.md) 
