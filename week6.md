@@ -17,3 +17,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 ### Additional Resources:
 - *Natural Language Processing in Python Tutorial* by Alice Zhao. Available at: [GitHub Repository](https://github.com/adashofdata/nlp-in-python-tutorial)
+
+
+[Back to Main Page](README.md)
+
