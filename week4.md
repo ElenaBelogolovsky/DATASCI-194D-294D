@@ -26,7 +26,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
    (Dis)Information Wars. NBER Working Paper No. w32896.
 
 4. **Video:**
-- Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spread—And Why They Stop* | Harvard Science Book Talks and Research Lectures | October 8, 2021.  
+Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spread—And Why They Stop* | Harvard Science Book Talks and Research Lectures | October 8, 2021.  
   [Watch here](https://www.youtube.com/watch?v=DDtyaOTEvd8)
 
 ---
@@ -62,7 +62,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
    (Dis)Information Wars. NBER Working Paper No. w32896.
 
 6. **Video:**
-- Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spread—And Why They Stop* | Harvard Science Book Talks and Research Lectures | October 8, 2021.  
+Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spread—And Why They Stop* | Harvard Science Book Talks and Research Lectures | October 8, 2021.  
   [Watch here](https://www.youtube.com/watch?v=DDtyaOTEvd8)
 
 [Back to Main Page](README.md)
