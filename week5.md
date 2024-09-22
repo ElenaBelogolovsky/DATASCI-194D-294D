@@ -3,18 +3,20 @@
 The PDF files for all readings for this week can be accessed [here](https://canvas.stanford.edu/courses/198736/files/folder/Week%205).
 
 
-## Generalist Track: Required
+## Generalist Track
+
+**Required:**
 
 1. **Howard, P. N. (2020).**  
    Tracing Impact and Influence. In *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives* (pp. 108–136).
 
-**Video:**
-- **Facebook's Role in Brexit — and the Threat to Democracy** | Carole Cadwalladr | June 10, 2019  
+2. **Video:**
+**Facebook's Role in Brexit — and the Threat to Democracy** | Carole Cadwalladr | June 10, 2019  
   [Watch here](https://www.youtube.com/watch?v=OQSMr-3GGvQ&t=57s)
 
 ---
 
-## Optional:
+**Optional:**
 
 **Educational Games:**
 - **Fakey**: This game aims to teach media literacy and study how people interact with misinformation.
@@ -24,7 +26,9 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 ---
 
-## Data Scientist Track: Required
+## Data Scientist Track
+
+**Required:**
 
 1. **D’Ulizia, A., Caschera, M. C., Ferri, F., & Grifoni, P. (2021).**  
    Fake news detection: A survey of evaluation datasets. *PeerJ Computer Science, 7*.
@@ -34,7 +38,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 ---
 
-## Optional:
+**Optional:**
 
 **Educational Games:**
 - **Fakey**: This game aims to teach media literacy and study how people interact with misinformation.
