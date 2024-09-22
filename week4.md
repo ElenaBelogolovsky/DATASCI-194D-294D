@@ -40,6 +40,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 - Explore how echo chambers emerge from social media: [Echo Chamber Demo](https://osome.iu.edu/demos/echo/)
 - Coordiscope - Visualize coordinated networks on social media: [Coordiscope Tool](https://osome.iu.edu/tools/coordiscope/)
 
+
 ---
 
 ## Optional:
@@ -61,4 +62,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 **Video:**
 - Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spread—And Why They Stop* | Harvard Science Book Talks and Research Lectures | October 8, 2021.  
   [Watch here](https://www.youtube.com/watch?v=DDtyaOTEvd8)
+
+[Back to Main Page](README.md)
+
 
