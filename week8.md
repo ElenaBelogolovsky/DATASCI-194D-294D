@@ -19,6 +19,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 2. Costello, T. H., Pennycook, G., & Rand, D. G. (2024). *Durably Reducing Conspiracy Beliefs through Dialogues with AI*. Science, 385(6714).
 
+---
+
 ### Data Scientist Track
 
 **Required:**
