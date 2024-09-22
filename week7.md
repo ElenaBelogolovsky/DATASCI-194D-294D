@@ -21,7 +21,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 **Required:**
 
-1.Maham, S., Tariq, A., Khan, M. U. G., Alamri, F. S., Rehman, A., & Saba, T. (2024). *ANN: adversarial news net for robust fake news classification*. Scientific Reports, 14(1), 7897.  
+1. Maham, S., Tariq, A., Khan, M. U. G., Alamri, F. S., Rehman, A., & Saba, T. (2024). *ANN: adversarial news net for robust fake news classification*. Scientific Reports, 14(1), 7897.  
   [Read the article](https://doi.org/10.1038/s41598-024-56567-4)
 
 2. Islam, M. R., Liu, S., Wang, X., & Xu, G. (2020). *Deep learning for misinformation detection on online social networks: a survey and new perspectives*. In Social Network Analysis and Mining (Vol. 10, Issue 1).
