@@ -17,6 +17,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 3. Bontridder, N., & Poullet, Y. (2021). *The role of artificial intelligence in disinformation*. Data and Policy, 3(3).
 
+---
+
 ### Data Scientist Track
 
 **Required:**
