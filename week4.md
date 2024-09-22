@@ -9,7 +9,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 1. **Woolley, Samuel C., & Howard, Philip N. (2018).**  
    “Chapter 8: United States: Manufacturing Consensus Online”, in *Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media*, Oxford Studies in Digital Politics, New York, pp. 185-211.
 
-**Tools:**
+2. **Tools:**
 - Explore how echo chambers emerge from social media: [Echo Chamber Demo](https://osome.iu.edu/demos/echo/)
 - Coordiscope - Visualize coordinated networks on social media: [Coordiscope Tool](https://osome.iu.edu/tools/coordiscope/)
 
@@ -25,7 +25,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 3. **Casillas, A., Farboodi, M., Hashemi, L., Saeedi, M., & Wilson, S. (September 2024).**  
    (Dis)Information Wars. NBER Working Paper No. w32896.
 
-**Video:**
+4. **Video:**
 - Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spread—And Why They Stop* | Harvard Science Book Talks and Research Lectures | October 8, 2021.  
   [Watch here](https://www.youtube.com/watch?v=DDtyaOTEvd8)
 
@@ -40,7 +40,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
    Tutorials, datasets, and other material associated with the textbook:  
    [Explore here](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
 
-**Tools:**
+3. **Tools:**
 - Explore how echo chambers emerge from social media: [Echo Chamber Demo](https://osome.iu.edu/demos/echo/)
 - Coordiscope - Visualize coordinated networks on social media: [Coordiscope Tool](https://osome.iu.edu/tools/coordiscope/)
 
@@ -61,7 +61,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 5. **Casillas, A., Farboodi, M., Hashemi, L., Saeedi, M., & Wilson, S. (September 2024).**  
    (Dis)Information Wars. NBER Working Paper No. w32896.
 
-**Video:**
+6. **Video:**
 - Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spread—And Why They Stop* | Harvard Science Book Talks and Research Lectures | October 8, 2021.  
   [Watch here](https://www.youtube.com/watch?v=DDtyaOTEvd8)
 
