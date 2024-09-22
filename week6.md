@@ -5,7 +5,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 ### Generalist Track 
 
 **Required:**
-1. **Lugea, J. (2021).** *Linguistic Approaches to Fake News Detection*. In: *Data Science for Fake News*. The Information Retrieval Series, vol 42. Springer, Cham.
+1. **Lugea, J. (2021).** Linguistic Approaches to Fake News Detection. In: *Data Science for Fake News*. The Information Retrieval Series, vol 42. Springer, Cham.
 
 ### Data Scientist Track 
 
