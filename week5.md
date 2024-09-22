@@ -42,3 +42,6 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 - **Fake It To Make It**: This game takes significantly longer than an hour, but it puts you right into the mindset of someone who is manipulating social media purely for profit.
 - **Bad News**: This game puts you in charge of a fake news publication. You will learn about what goes into successful bad news and how people manipulate it for their benefit.
 
+[Back to Main Page](README.md)
+
+
