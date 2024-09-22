@@ -28,3 +28,5 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 2. **Economics and Ethics of Misinformation** | Duquesne University | March 8, 2021  
    [Watch here](https://www.youtube.com/watch?v=g9e8K96WjJA)
 
+
+[Back to Main Page](README.md) 
