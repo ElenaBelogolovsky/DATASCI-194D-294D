@@ -7,8 +7,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 **Required:**
 
-1. **Howard, P. N. (2020).**  
-   Tracing Impact and Influence. In *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives* (pp. 108–136).
+1. **Howard, P. N. (2020).** Tracing Impact and Influence. In *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives* (pp. 108–136).
 
 2. **Video:**
 **Facebook's Role in Brexit — and the Threat to Democracy** | Carole Cadwalladr | June 10, 2019  
@@ -30,11 +29,9 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 **Required:**
 
-1. **D’Ulizia, A., Caschera, M. C., Ferri, F., & Grifoni, P. (2021).**  
-   Fake news detection: A survey of evaluation datasets. *PeerJ Computer Science, 7*.
+1. **D’Ulizia, A., Caschera, M. C., Ferri, F., & Grifoni, P. (2021).** Fake news detection: A survey of evaluation datasets. *PeerJ Computer Science, 7*.
 
-2. **Põldvere, N., Uddin, Z., & Thomas, A. (2023).**  
-   The PolitiFact-Oslo Corpus: A New Dataset for Fake News Analysis and Detection. *Information (Switzerland), 14*(12).
+2. **Põldvere, N., Uddin, Z., & Thomas, A. (2023).** The PolitiFact-Oslo Corpus: A New Dataset for Fake News Analysis and Detection. *Information (Switzerland), 14*(12).
 
 ---
 
