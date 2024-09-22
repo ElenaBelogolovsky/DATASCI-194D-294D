@@ -33,7 +33,7 @@ Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spr
 
 ## Data Scientist Track
 
-**Required**
+**Required:**
 
 1. **Menczer, F., Fortunato, S., & Davis, C. A. (2020).**  
    *A First Course in Network Science*. Cambridge University Press.  
