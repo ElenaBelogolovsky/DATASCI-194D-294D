@@ -2,18 +2,20 @@
 
 The PDF files for all readings for this week can be accessed [here](https://canvas.stanford.edu/courses/198736/files/folder/Week%204).
 
-## Generalist Track: Required
+## Generalist Track
+
+**Required:**
 
 1. **Woolley, Samuel C., & Howard, Philip N. (2018).**  
    “Chapter 8: United States: Manufacturing Consensus Online”, in *Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media*, Oxford Studies in Digital Politics, New York, pp. 185-211.
 
-### Tools:
+**Tools:**
 - Explore how echo chambers emerge from social media: [Echo Chamber Demo](https://osome.iu.edu/demos/echo/)
 - Coordiscope - Visualize coordinated networks on social media: [Coordiscope Tool](https://osome.iu.edu/tools/coordiscope/)
 
 ---
 
-## Optional:
+**Optional:**
 
 1. **O’Connor, C., & Weatherall, J. O. (2019).** *The Misinformation Age: How False Beliefs Spread*. Yale University Press. (Chapters 2-4)
    
@@ -29,7 +31,9 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 ---
 
-## Data Scientist Track: Required
+## Data Scientist Track
+
+**Required**
 
 1. **Menczer, F., Fortunato, S., & Davis, C. A. (2020).**  
    *A First Course in Network Science*. Cambridge University Press.  
@@ -41,9 +45,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 - Coordiscope - Visualize coordinated networks on social media: [Coordiscope Tool](https://osome.iu.edu/tools/coordiscope/)
 
 
----
-
-## Optional:
+**Optional:**
 
 1. **O’Connor, C., & Weatherall, J. O. (2019).** *The Misinformation Age: How False Beliefs Spread*. Yale University Press. (Chapters 2-4)
    
