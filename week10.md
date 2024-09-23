@@ -12,6 +12,9 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 2. **Ahmad, W., Sen, A., Eesley, C., et al. (2024).**  
    Companies inadvertently fund online misinformation despite consumer backlash. *Nature, 630*, 123–131.
 
+3. **Singer, Peter Warren, and Emerson T. Brooking. (2018).** *LikeWar: the Weaponization of Social Media.* Mariner Books, Houghton Mifflin Harcourt, 2019, Ch. 5. 
+
+
 ---
 
 ## Optional:
