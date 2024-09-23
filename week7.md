@@ -8,6 +8,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 1. Giansiracusa, N. (2021). *How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More*. Apress: Berkeley, CA, USA, Ch. 2.
 
+2. Yang, J., Xu, H., Mirzoyan, S. et al. (2024). Poisoning medical knowledge using large language models. *Nat Mach Intell.*
+      
 **Optional:**
 
 1. Santos, F. C. C. (2023). *Artificial Intelligence in Automated Detection of Disinformation: A Thematic Analysis*. Journalism and Media, 4(2).
@@ -31,6 +33,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
   or
 
 3. Mridha, M. F., Keya, A. J., Hamid, M. A., Monowar, M. M., & Rahman, M. S. (2021). *A Comprehensive Review on Fake News Detection with Deep Learning*. IEEE Access, 9.
+
+4. Yang, J., Xu, H., Mirzoyan, S. et al. (2024). Poisoning medical knowledge using large language models. *Nat Mach Intell.*
 
 
 [Back to Main Page](README.md)
