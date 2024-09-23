@@ -1,5 +1,8 @@
 # Andrey Mir - Guest Speaker
 
+![4b7ac](https://github.com/user-attachments/assets/4472e0fa-4298-4274-958e-c35a3d1b1dfd)
+
+
 ## Lecture Date: October 9, 2024 (9:30 AM - 10:20 AM)
 
 **Orality, Literacy, and Digital Media: the Rise and Decline of Scientific Thinking**
