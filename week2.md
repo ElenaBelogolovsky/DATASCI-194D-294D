@@ -19,6 +19,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 6. **Labatut, B. (2021).** *When We Cease to Understand the World.* New York Review Books, Ch. 1.
 
+7. **Thurber, J. (1933).** The day the dam broke. In *My life and hard times*. Harper & Brothers.
+
 ---
 
 ## Data Scientist Track: Required
