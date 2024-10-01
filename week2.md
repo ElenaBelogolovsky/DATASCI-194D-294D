@@ -17,6 +17,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 5. **Benkler, Y., Faris, R., & Roberts, H. (2018).** *Network Propaganda*. In *Network Propaganda*, Ch. 7, pp. 225-233.
 
+6. **Labatut, B. (2021).** *When We Cease to Understand the World.* New York Review Books, Ch. 1.
+
 ---
 
 ## Data Scientist Track: Required
@@ -30,5 +32,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 3. **Benkler, Y., Faris, R., & Roberts, H. (2018).** *Network Propaganda*. In *Network Propaganda*, Ch. 7, pp. 225-233.
 
 4. **van Dijck, J. (2024).** Governing platforms and societies. *Platforms & Society, 1*.
+   
+5. **Labatut, B. (2021).** *When We Cease to Understand the World.* New York Review Books, Ch. 1.
 
 [Back to Main Page](README.md) 
