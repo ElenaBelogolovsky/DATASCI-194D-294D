@@ -8,7 +8,7 @@
 
 [September 30, 2024: Dr. Emilio Ferrara](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=13990659)
 
-[October 2, 2024: Prof. David Donoho](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14009340))
+[October 2, 2024: Prof. David Donoho](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14009340)
 
 
 [October 9, 2024: Dr. Andrey Mir](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14004394)
