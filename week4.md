@@ -32,7 +32,7 @@ Harvard Science Book Talk: A. Kucharski, *The Rules of Contagion: Why Things Spr
 
 **Required:**
 
-1. **Menczer, F., Fortunato, S., & Davis, C. A. (2020).** *A First Course in Network Science*. Cambridge University Press.  
+1. **Menczer, F., Fortunato, S., & Davis, C. A. (2020).** *A First Course in Network Science*. Cambridge University Press, Ch. 4.
    Tutorials, datasets, and other material associated with the textbook:  
    [Explore here](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
 
