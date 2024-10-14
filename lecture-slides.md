@@ -14,6 +14,7 @@
 
 [October 9, 2024: Dr. Andrey Mir](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14004394)
 
+[October 14, 2024: Dr. Filippo Menczer](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14077079)
 
 
 [Back to Main Page](README.md)
