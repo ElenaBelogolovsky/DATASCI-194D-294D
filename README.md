@@ -31,8 +31,8 @@ Elena Belogolovsky, ebelog@stanford.edu
 - [September 30, 2024 - Dr. Emilio Ferrara](emilio-ferrara.md){:target="_blank"}  
 - [October 9, 2024 - Andrey Mir](andrey-mir.md){:target="_blank"}  
 - [October 14, 2024 - Dr. Filippo Menczer](filippo-menczer.md){:target="_blank"}  
-- [October 23, 2024 - Dr. Kevin Esterling](kevin-esterling.md){:target="_blank"}  
-- [October 28, 2024 - Imran Ahmed](imran-ahmed.md){:target="_blank"}  
+- [October 28, 2024 - Imran Ahmed](imran-ahmed.md){:target="_blank"}
+- [October 30, 2024 - Dr. Kevin Esterling](kevin-esterling.md){:target="_blank"} 
 - [November 4, 2024 - Dr. Brandon Sepulvado](brandon-sepulvado.md){:target="_blank"}
 - [November 4, 2024 - Maty Bohacek](Maty-Bohacek.md){:target="_blank"}
 - [November 11, 2024 - Dr. Kai Shu](kai-shu.md){:target="_blank"}  
