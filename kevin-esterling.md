@@ -1,6 +1,6 @@
 # Dr. Kevin Esterling - Guest Speaker
 
-## Lecture Date: October 23, 2024 (9:30 AM - 10:20 AM)
+## Lecture Date: October 30, 2024 (9:30 AM - 10:20 AM)
 
 **Abstract**
 
