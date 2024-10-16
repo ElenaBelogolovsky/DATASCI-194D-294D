@@ -16,5 +16,8 @@
 
 [October 14, 2024: Dr. Filippo Menczer](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14077079)
 
+[October 16, 2024: Prof. David Donoho](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14087647)
+
+
 
 [Back to Main Page](README.md)
