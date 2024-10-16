@@ -9,7 +9,9 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 1. **Howard, P. N. (2020).** Tracing Impact and Influence. In *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives* (pp. 108–136).
 
-2. **Video:**
+2. **Andrey Mir (October 3, 2024).** Eight theses on digital media literacy. [Read here](https://andrey4mir.substack.com/p/eight-theses-on-digital-media-literacy).
+
+3. **Video:**
 **Facebook's Role in Brexit — and the Threat to Democracy** | Carole Cadwalladr | June 10, 2019  
   [Watch here](https://www.youtube.com/watch?v=OQSMr-3GGvQ&t=57s)
 
@@ -32,6 +34,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 1. **D’Ulizia, A., Caschera, M. C., Ferri, F., & Grifoni, P. (2021).** Fake news detection: A survey of evaluation datasets. *PeerJ Computer Science, 7*.
 
 2. **Põldvere, N., Uddin, Z., & Thomas, A. (2023).** The PolitiFact-Oslo Corpus: A New Dataset for Fake News Analysis and Detection. *Information (Switzerland), 14*(12).
+
+3. **Andrey Mir (October 3, 2024).** Eight theses on digital media literacy. [Read here](https://andrey4mir.substack.com/p/eight-theses-on-digital-media-literacy).
 
 ---
 
