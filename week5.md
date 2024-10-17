@@ -11,7 +11,10 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 2. **Andrey Mir (October 3, 2024).** Eight theses on digital media literacy. [Read here](https://andrey4mir.substack.com/p/eight-theses-on-digital-media-literacy).
 
-3. **Video:**
+3. **Linvill, D. and Warren, P. (2024).** "Digital Yard Signs: Analysis of an AI Bot Political Influence Campaign
+on X" . *Media Forensics Hub Reports. 7.* [Read here](https://open.clemson.edu/mfh_reports/7).
+
+4. **Video:**
 **Facebook's Role in Brexit — and the Threat to Democracy** | Carole Cadwalladr | June 10, 2019  
   [Watch here](https://www.youtube.com/watch?v=OQSMr-3GGvQ&t=57s)
 
