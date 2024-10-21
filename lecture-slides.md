@@ -18,6 +18,6 @@
 
 [October 16, 2024: Prof. David Donoho](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14087647)
 
-
+[October 21, 2024: Dr. Andrey Mir](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14114365)
 
 [Back to Main Page](README.md)
