@@ -5,6 +5,7 @@
 **White Hat Data Scientists - How We Can Fix Our Increasingly Broken Information Ecosystem**
 
 **Abstract**
+
 Imran Ahmed, CEO and Founder of the Center for Countering Digital Hate, will discuss the founding mythos which underpins Silicon Valley’s success, how and why he founded CCDH to address the disarray in our information ecosystem, and will argue the moral case for ethical data science. 
 
  
