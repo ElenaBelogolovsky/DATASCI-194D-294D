@@ -2,7 +2,7 @@
 
 ## Lecture Date: November 20, 2024 (9:30 AM - 10:20 AM)
 
-**Perspectives on chaos: How the Internet lost its way, and how we can get it right.**
+**Perspectives on chaos: How the Internet lost its way, and how we can get it right**
 
 
 **Abstract**
