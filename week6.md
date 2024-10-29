@@ -16,6 +16,7 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
   [This is the code to reproduce the results in the paper](https://github.com/sophialatessa/FakeNewsDeepLearning?tab=readme-ov-file).
 
+
 2. **Volety, R. (February 15, 2024).** *How To Build Fake News Detection Model Using NLP*. Available at: [https://www.labellerr.com/blog/fake-news-detection-using-nlp](https://www.labellerr.com/blog/fake-news-detection-using-nlp)
 
 3. **Video Tutorial:**
