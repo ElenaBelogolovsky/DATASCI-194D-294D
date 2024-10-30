@@ -2,11 +2,14 @@
 
 ## Lecture Date: October 30, 2024 (9:30 AM - 10:20 AM)
 
+**Post-January 6th deplatforming reduced the reach of misinformation on Twitter**
+
+
 **Abstract**
 
 In this lecture Dr. Kevin Esterling will discuss a recent evaluation of the impact of Twitter’s decision to suddenly deplatform 70,000 misinformation traffickers in response to the violence at the U.S. Capitol on January 6, 2021. Using a panel of over a half million active Twitter users and natural experimental designs, his research team evaluated the effects of this intervention on the circulation of misinformation on Twitter. They showed that Twitter's intervention reduced misinformation circulation by the deplatformed users as well as by those who followed the deplatformed users, though they cannot identify the magnitude of the causal estimates due to the co-occurrence of the deplatforming intervention with the events surrounding January 6th. They also find that many of the misinformation traffickers who were not deplatformed exited Twitter following the intervention. The lecture will describe the strategies for measuring key variables, such as "misinformation," and the strategies and assumptions they use to identify causal effects with observational data.
 
-https://www.nature.com/articles/s41586-024-07524-8
+[https://www.nature.com/articles/s41586-024-07524-8]
 
 **Bio**
 
