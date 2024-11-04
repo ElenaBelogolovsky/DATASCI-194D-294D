@@ -6,6 +6,8 @@ The PDF files for all readings for this week can be accessed [here](https://canv
 
 **Required:**
 1. **Lugea, J. (2021).** Linguistic Approaches to Fake News Detection. In: *Data Science for Fake News*. The Information Retrieval Series, vol 42. Springer, Cham.
+   
+2. **Damstra, A., Boomgaarden, H. G., Broda, E., Lindgren, E., Stromback, J., Tsfati, Y., & Vliegenthart, R. (2021).** What does fake look like? A review of the literature on intentionaldeception in the news and on social media. *Journalism Studies,* 22(14), 1947-1963. 
 
 ---
 
