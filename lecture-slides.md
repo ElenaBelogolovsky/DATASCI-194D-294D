@@ -22,4 +22,7 @@
 
 [October 30, 2024: Dr. Kevin M. Esterling](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14157873)
 
+[November 4, 2024: Dr. Brandon Sepulvado](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14212513)
+
+
 [Back to Main Page](README.md)
