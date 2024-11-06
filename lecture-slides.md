@@ -24,5 +24,8 @@
 
 [November 4, 2024: Dr. Brandon Sepulvado](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14212513)
 
+[November 11, 2024: Maty Bohacek](https://canvas.stanford.edu/courses/198736/files?preview=14229459)
+
+[November 11, 2024: Andrew Donoho](https://canvas.stanford.edu/courses/198736/files?preview=14229458)
 
 [Back to Main Page](README.md)
