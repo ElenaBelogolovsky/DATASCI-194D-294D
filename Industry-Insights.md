@@ -3,7 +3,7 @@
 
 ## Lecture Date: Movember 13, 2024 (9:30 AM - 10:20 AM)
 
-**Tamoa Calzadilla**
+### Tamoa Calzadilla
 
 
 **David Carson**
