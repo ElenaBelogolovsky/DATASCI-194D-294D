@@ -5,7 +5,6 @@
 
 
 
-### Tamoa Calzadilla
 
 
 
@@ -29,6 +28,9 @@ Beginning his career drawing traditional editorial cartoons for newspapers like 
 Growing up in California, Fiore also spent a good portion of his life in the backwoods of Idaho. It was this combination that shaped him politically. Mark majored in political science at Colorado College, where, in a perfect send-off for a cartoonist, he received his diploma in 1991 as commencement speaker Dick Cheney smiled approvingly.
 
 Mark Fiore was awarded the Pulitzer Prize for editorial cartooning in 2010 and was a Pulitzer finalist in 2018. He won the Herblock Prize in 2016, a Robert F. Kennedy Journalism Award in 2019 and 2004, and has twice received an Online Journalism Award for commentary from the Online News Association. Fiore has received two awards in new media from the National Cartoonists Society and has received The James Madison Freedom of Information Award from The Society of Professional Journalists.
+
+
+### Tamoa Calzadilla
 
 
 
