@@ -48,7 +48,38 @@ David is an outdoor enthusiast, and tries to spend as much time as he can skiing
 
 ### Ryan S Gladding
 
-
+Lieutenant Colonel Gladding is a native of Reno Nevada. He graduated from the
+University of Nevada Las Vegas in 2003 where he received a Reserve Officer Training
+Corps commission to the Army’s Ordnance Corps. In 2009, he was assessed and
+selected into the Psychological Operations Branch. He also holds a Master of Science
+in Defense Analysis with an Irregular Warfare focus from the Naval Postgraduate
+School, Monterey California class of 2015.
+His key assignments include Platoon Leader and Executive Officer Forward Support
+Company, 1st Battalion 15th Infantry Regiment during Operation Iraqi Freedom;
+Detachment Commander, Bravo Company, 5th Psychological Operations Battalion in
+support of United States Embassy Manila (Philippines) and United States Embassy
+Kathmandu (Nepal); Commander, Alpha Company, 1st Psychological Operations
+Battalion (South and Central America focus); Battalion Executive Officer 5th
+Psychological Operations Battalion; and the Joint Staff J7 where he served as the lead
+Information Operations planner in support of the Chairman’s Globally Integrated
+Exercise. Lieutenant Colonel Gladding’s most recent assignments were the
+Commander, U.S. Army Garrison Okinawa and the Deputy Commander, U.S. Army
+Japan’s 10th Support Group, Torii Station, Okinawa, Japan.
+Lieutenant Colonel Gladding’s military schools include the Joint and Combined Warfare
+School (JPME2), Naval Postgraduate School, Naval War College of Command and
+Staff (JPME1), Maneuver Captain’s Career Course, Special Warfare Center and
+School’s Psychological Operations Officer Course, SERE (High Risk), Basic Airborne
+Course, Joint Information Operation Planner’s Course, Operations Security Planner’s
+Course, Military Deception Planner’s Course, and the Joint Special Technical
+Operations Planner’s Course.
+His awards include the Bronze Star Medal (1 oak leaf cluster), Defense Meritorious
+Service Medal, Army Meritorious Service Medal (2 oak leaf clusters), Army
+Commendation Medal (4 oak leaf clusters), Joint Service Achievement Medal, Iraqi
+Campaign Medal (3 campaign stars), Global War on Terrorism Expeditionary Medal,
+Overseas Service Ribbon (2nd award), Joint Meritorious Unit Award, Army Meritorious
+Unit Award, Joint Chiefs of Staff Identification Badge, Basic Parachutist Badge, German
+Parachutist Badge (bronze award), and the Canadian Parachutist Badge.
+Lieutenant Colonel Gladding is accompanied by his wife Amber and their son Hunter. 
  
 
 [Back to Main Page](README.md)
