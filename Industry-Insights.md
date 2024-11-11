@@ -32,6 +32,8 @@ Mark Fiore was awarded the Pulitzer Prize for editorial cartooning in 2010 and w
 
 ### Tamoa Calzadilla
 
+Tamoa Calzadilla is a John S. Knight Journalism fellow 2024-2025 at Stanford University. She is editor-in-chief of Factchequeado, a collaborative initiative to fight misinformation and disinformation in Latino and Spanish-speaking communities in the United States. She manages partnerships and collaborative projects with 100 news organizations. She’s the former director of Univision’s elDetector, the first Spanish-language fact-checking platform in the United States. Calzadilla was part of a team that was a finalist for a Pulitzer Prize for FinCEN Files, an International Consortium of Investigative Journalists and BuzzFeed News collaborative investigation that revealed the role of some of the world’s biggest banks in money laundering. She also worked on the Panama Papers project. In 2022, Forbes.es included Calzadilla on a list of the 100 most creative people in the business world. As a 2024 RJI Fellow at the University of Missouri, she developed a bilingual guide for journalists covering Latino and Spanish-speaking communities.
+
 
 
 ### Ryan S Gladding
