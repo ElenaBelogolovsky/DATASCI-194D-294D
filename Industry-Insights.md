@@ -36,13 +36,17 @@ Tamoa Calzadilla is a John S. Knight Journalism fellow 2024-2025 at Stanford Uni
 
 
 
-### Ryan S Gladding
-
-
-
-
 ### David Lawee
 
+David Lawee spent the past 18 years at Alphabet, most recently as the founder and Managing Partner of CapitalG, a $7B growth equity investment firm. CapitalG invested in many of the leading growth companies of the past decade including Airbnb, Stripe, Crowdstrike, Lyft, Credit Karma, Databricks, Zscaler, Robinhood and Niantic.
+Previously, David was Google’s Vice President of Corporate Development, managing the company’s acquisitions and investments. Over David’s five-year tenure Google acquired approximately 100 companies. Before that, as Google’s first Vice President of Marketing, David managed all of Google’s consumer, advertiser and partner marketing, globally.
+Before joining Google, David was a founder of Xfire, a leading online gaming community, which was acquired by Viacom. Previously, David co-founded three other start-ups including Mosaic Venture Partners, a leading Toronto-based venture capital firm. He also worked as a management consultant at McKinsey & Company.
+David grew up in Montreal, Canada. He studied philosophy at The University of Western Ontario, law at McGill University and earned an MBA from the University of Chicago.
+David is an outdoor enthusiast, and tries to spend as much time as he can skiing, golfing, kayaking, swimming, hiking, and biking. He lives in Los Gatos, California with his wife, Lorna Borenstein, and their dog Rebel.
+
+
+
+### Ryan S Gladding
 
 
  
