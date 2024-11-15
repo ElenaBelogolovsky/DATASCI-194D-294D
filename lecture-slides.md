@@ -30,4 +30,6 @@
 
 [November 11, 2024: Dr. Kai Shu](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14258633)
 
+[November 18, 2024: Dr. Shruti Agarwal](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14290958)
+
 [Back to Main Page](README.md)
