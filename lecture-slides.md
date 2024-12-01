@@ -32,4 +32,6 @@
 
 [November 18, 2024: Dr. Shruti Agarwal](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14290958)
 
+[December 2, 2024: Dr. Nir Kshetri](https://canvas.stanford.edu/courses/198736/files/folder/Lecture%20Slides?preview=14369522)
+
 [Back to Main Page](README.md)
